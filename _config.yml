@@ -105,7 +105,7 @@ theme: butterfly
 deploy:
   type: git
   repo: git@github.com:godssq/godssq.github.io.git
-  branch: master
+  branch: main
 
 # RSS
 # https://github.com/hexojs/hexo-generator-feed
